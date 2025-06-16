@@ -46,7 +46,7 @@ def main():
         print("📦 Использование: python mtu_finder.py <ip1> [<ip2> ...]")
         sys.exit(1)
 
-    print("🔍 MTU-проверка с флагом Don't Fragment:\\n")
+    print("🔍 MTU-проверка с флагом Don't Fragment:")
     for ip in sys.argv[1:]:
         max_payload = find_max_mtu(ip)
         if max_payload is None:
