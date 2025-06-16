@@ -8,3 +8,9 @@
 python mtu_finder.py <ip1> [<ip2> ...]
 ```
 ![изображение](https://github.com/user-attachments/assets/448588bf-6804-4a52-9170-9ad47047c1f7)
+
+📡 Подпишись и поддержи проект:
+
+🔗 GitHub: [github.com/netscripor](https://github.com/netscripor)  
+💰 Boosty: [boosty.to/netscripor](https://boosty.to/netscripor)  
+✈️ Telegram-канал: [t.me/netscripor](https://t.me/netscripor)
