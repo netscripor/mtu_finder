@@ -14,3 +14,5 @@ python mtu_finder.py <ip1> [<ip2> ...]
 🔗 GitHub: [github.com/netscripor](https://github.com/netscripor)  
 💰 Boosty: [boosty.to/netscripor](https://boosty.to/netscripor)  
 ✈️ Telegram-канал: [t.me/netscripor](https://t.me/netscripor)
+
+Tags: network diagnostics, mtu check, ping, don't fragment, ICMP tools, CLI tools
